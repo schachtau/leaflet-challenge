@@ -1,26 +1,15 @@
-Leaflet-Challenge Earthquake Map
+Leaflet-Challenge
 
-Welcome to the Earthquake Map web application, a tool designed to visualize earthquake data and tectonic plate boundaries on an interactive map using Leaflet, an open-source JavaScript library for mapping.
+This web application is a unique, open-source, library that's purpose is to visualize earthquakes & tectonic plate activity/locations on an interactive map. 
 
-Getting Started
+Leaflet is the open-source library that runs on JavaScript and is a leader in interactive visualizations.
 
-To explore the Earthquake Map, simply follow these steps:
+To use the Earthquake Map, just follow these steps:
 
-Clone or download the repository to your local computer.
+Clone the repository to your local machine, preferabky using GitDesktop.
 
-Open the index.html file in your web browser.
+Open the index.html file, seen under the static folder in this repository, in your web browser.
 
-Features
+Just as you can in google maps or the maps application on your Iphone, in our map you can interact, navigate the world easily, zoom in and out for a closer look at seismic events. Choose from numerous base map options, including a street view and a black & white view to allow users the comfort of use they deserve. Additional ergonomic luxuries and features of this map allow you to toggle between earthquake data and tectonic plate boundaries using layer controls.
+Earthquake locations are sized and colored relative to their magnitude and depth, providing visual cues for severity of the event and clicking on earthquake markers will show you additional information about each event. 
 
-Our Earthquake Map offers several key features for your exploration:
-
-Interactive Map: Navigate the world map effortlessly, with the ability to zoom in and out for a closer look at seismic events.
-
-Base Maps: Choose from various base map options, including a street map and a grayscale map, to tailor your viewing experience.
-
-Layer Controls: Toggle between earthquake data and tectonic plate boundaries using convenient layer controls.
-
-Markers: Earthquake markers are dynamically sized and colored based on their magnitude and depth, providing visual cues for event significance.
-
-Popups: Click on earthquake markers to access additional information about each specific event, enhancing your understanding of the seismic activity.
-leaflet-challenge/README.md.txt at main · Komissar15/leaflet-challenge
